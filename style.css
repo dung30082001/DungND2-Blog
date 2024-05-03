@@ -1,0 +1,38 @@
+#head {
+  text-align: center;
+}
+#footer {
+  text-align: center;
+}
+h1 {
+  text-decoration: solid;
+}
+.card-title-blog {
+  color: green;
+}
+.card-title-post {
+  color: blue;
+}
+.paging {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.page-link {
+  padding: 8px 12px;
+  margin-right: 5px;
+  text-decoration: none;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.page-link:hover {
+  background-color: #f5f5f5;
+}
+
+.page-link.active {
+  background-color: #333;
+  color: #fff;
+}
