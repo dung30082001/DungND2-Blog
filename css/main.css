@@ -1,0 +1,26 @@
+@import url("footer.css");
+@import url("navbar.css");
+@import url("paging.css");
+@import url("post.css");
+.headline {
+  text-decoration: solid;
+  text-align: center;
+}
+.card-title-blog {
+  color: green;
+}
+.card-title-post {
+  color: blue;
+}
+img {
+  width: 50%;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+figcaption {
+  color: black;
+}

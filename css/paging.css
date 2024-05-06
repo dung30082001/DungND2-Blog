@@ -1,24 +1,8 @@
-#head {
-  text-align: center;
-}
-#footer {
-  text-align: center;
-}
-h1 {
-  text-decoration: solid;
-}
-.card-title-blog {
-  color: green;
-}
-.card-title-post {
-  color: blue;
-}
 .paging {
   display: flex;
   justify-content: center;
   margin-top: 20px;
 }
-
 .page-link {
   padding: 8px 12px;
   margin-right: 5px;
@@ -35,13 +19,4 @@ h1 {
 .page-link.active {
   background-color: #333;
   color: #fff;
-}
-.blog-body {
-  padding-top: 20px;
-}
-.blog-title {
-  color: red;
-}
-.blog-meta {
-  font-weight: bold;
 }
