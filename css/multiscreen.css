@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+  .headline {
+    color: yellow;
+  }
+  .post-title {
+    color: brown;
+  }
+}

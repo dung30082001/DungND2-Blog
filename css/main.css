@@ -2,6 +2,7 @@
 @import url("navbar.css");
 @import url("paging.css");
 @import url("post.css");
+@import url("multiscreen.css");
 .headline {
   text-decoration: solid;
   text-align: center;
